@@ -1,0 +1,13 @@
+
+DATA CLEANING REPORT
+====================
+
+Original Records : 119390
+
+Records After Cleaning : 87396
+
+Duplicates Removed : 31994
+
+Missing Values Before Cleaning : 129425
+
+Missing Values After Cleaning : 0
